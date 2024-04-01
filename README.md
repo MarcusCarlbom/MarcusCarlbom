@@ -6,5 +6,10 @@ I am a student at the Royale Institute of Science (KTH) in Stockholm pursuing a 
 + 🤖 [More to come](https://github.com/MarcusCarlbom) - More projects coming public soon
 + 🏫 [Private repisitories](https://github.com/MarcusCarlbom) - School projects only saved in private for assignments
 
+## Skills
++ Experience in Java, Go, Python, C, Haskell, Javascript, PostgreSQL, assembly, Prolog, and HTML.
++ Experienced in version control management (Git).
++ Motivated learned and challenge seeker.
++ Loves problem solving and innovative techonlogies.
 
 
