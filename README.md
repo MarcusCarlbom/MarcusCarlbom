@@ -1,4 +1,4 @@
-### Hi! I am Marcus Carlbom 😄
+### Hi! I am Marcus Carlbom
 I am a student at the Royale Institute of Science (KTH) in Stockholm pursuing a master degree in computer-science and engineering.
 
 ## Projects
